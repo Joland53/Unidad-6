@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE textos SYSTEM "27-entidades-parametricas.dtd">
+
+<textos>
+    <seccion id="t1" nombre="seccion 1">
+        Sección 1
+    </seccion>
+    <seccion id="p1" nombre="parrafo 1">
+         Parrafo 1
+     </seccion>
+    
+     <seccion id="t2" nombre="seccion 2">
+         Sección 2
+     </seccion>
+</textos>

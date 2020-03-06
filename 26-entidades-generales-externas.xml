@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE textos [
+    <!ENTITY frase SYSTEM "26-frase.txt">
+    <!ELEMENT texto (#PCDATA)>
+]>
+
+<textos>
+    <texto>Charles Chaplin dijo:
+        &frase;
+    </texto>
+</textos>

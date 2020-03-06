@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE condiciones [
+    <!ENTITY empresa "ASIR S.A.">
+]>
+
+<condiciones>
+    La empresa &empresa; con sede en C/ Javier Sanz, 15 en Almería,
+    en base a la ley Ley Orgánica 3/2018 de 5 de Diciembre de Protección de Datos, 
+    se declara no responsable de la opinión personal vertida por los usuarios en el foro.
+</condiciones>

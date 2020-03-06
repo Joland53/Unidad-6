@@ -1,0 +1,8 @@
+<!ENTITY % tipo_id "ID #REQUIRED">
+<!ELEMENT textos (seccion | parrafo)*>
+<!ELEMENT seccion (#PCDATA)>
+<!ATTLIST seccion id %tipo_id;
+                  nombre CDATA>
+<!ELEMENT parrafo (#PCDATA)>
+<!ATTLIST parrafo id %tipo_id;
+                  nombre CDATA #IMPLIED>

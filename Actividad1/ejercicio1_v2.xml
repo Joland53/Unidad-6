@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE correo_electronico SYSTEM "ejercicio1.dtd">
+<correo_electronico>
+    <mensaje>
+        <de>pepito</de>
+        <para>pepita</para>
+        <asunto>tenemos que hablar</asunto>
+        <contenido>Me he encontrado al niño en la papelera. -.-</contenido>
+    </mensaje>
+</correo_electronico>

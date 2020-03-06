@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE persona SYSTEM "13-persona.dtd">
+<persona>
+    <nombre>Ana</nombre>
+    <apellidos>García</apellidos>
+    <dni>20123203E</dni>
+</persona>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pilotos [
+    <!ELEMENT pilotos (piloto*)>
+    <!ELEMENT piloto (#PCDATA)>
+    <!ATTLIST piloto edad CDATA #REQUIRED>
+];>
+
+<pilotos>
+    <piloto edad = "38">Fernando Alonso</piloto>
+    <piloto edad = "26">Carlos Sainz</piloto>
+    <piloto edad = "34">Sebastian Vettel</piloto>
+
+</pilotos>
